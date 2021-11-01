@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**OzRam21/OzRam21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a chemist/chemical engineer that is striving to make the transition into IT and cyber security. I want to make a positive personal impact on people through technology. 
 
-Here are some ideas to get you started:
+I'm currently learning the following through practice: Python, Powershell, and Ansible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm looking for help with learning: Pentesting tools, DFIR, DevSecOps, API, Web Hacking, Terraform, and advanced Linux skills.
+
+I'm currently using the following to learn and improve my skills: TryHackMe, No Starch Press Books, Udemy courses, and Youtube.
+
+Short Term Goals:
+  - Publish Python and PowerShell scripts that I author as I learn from Udemy classes and books.
+  - Attain Cloud certifications: Google Cloud, AWS, or MS Azure
+  - Share projects that I have carried out in my home lab
+  - Author guides for starting your own lab and helpful resources to others looking to start in the cyber security field  
